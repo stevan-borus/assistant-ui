@@ -4282,7 +4282,7 @@ importers:
         specifier: ^1.9.0
         version: 1.9.0(zod@4.6.7)
       '@assistant-ui/core':
-        specifier: ^0.3.32
+        specifier: ^0.3.33
         version: link:../core
       assistant-stream:
         specifier: ^0.3.55
@@ -4347,7 +4347,7 @@ importers:
         specifier: ^4.0.157
         version: 4.0.157(react@19.3.1)(zod@4.6.7)
       '@assistant-ui/core':
-        specifier: ^0.3.32
+        specifier: ^0.3.33
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.22
@@ -4702,7 +4702,7 @@ importers:
   packages/eve:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.3.32
+        specifier: ^0.3.33
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.22
@@ -5169,7 +5169,7 @@ importers:
         specifier: ^1.0.3
         version: 1.0.3
       '@assistant-ui/core':
-        specifier: ^0.3.32
+        specifier: ^0.3.33
         version: link:../core
       '@assistant-ui/generative-ui':
         specifier: ^0.0.8
@@ -5221,7 +5221,7 @@ importers:
   packages/react-ai-sdk:
     dependencies:
       '@assistant-ui/ai-sdk':
-        specifier: ^0.0.16
+        specifier: ^0.0.17
         version: link:../ai-sdk
       ai:
         specifier: ^7.0.101
@@ -5390,7 +5390,7 @@ importers:
   packages/react-google-adk:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.3.32
+        specifier: ^0.3.33
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.22
@@ -5531,7 +5531,7 @@ importers:
   packages/react-ink-markdown:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.3.32
+        specifier: ^0.3.33
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.22
@@ -5895,7 +5895,7 @@ importers:
   packages/react-opencode:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.3.32
+        specifier: ^0.3.33
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.22
@@ -6181,7 +6181,7 @@ importers:
   packages/svelte:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.3.32
+        specifier: ^0.3.33
         version: link:../core
       '@assistant-ui/store':
         specifier: ^0.3.22
@@ -6517,7 +6517,7 @@ importers:
   packages/vscode:
     dependencies:
       '@assistant-ui/core':
-        specifier: ^0.3.32
+        specifier: ^0.3.33
         version: link:../core
     devDependencies:
       '@assistant-ui/store':

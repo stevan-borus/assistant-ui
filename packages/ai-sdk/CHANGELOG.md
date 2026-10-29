@@ -1,5 +1,13 @@
 # @assistant-ui/ai-sdk
 
+## 0.0.17
+
+### Patch Changes
+
+- [#10168](https://github.com/assistant-ui/assistant-ui/pull/10168) [`35b9a3a`](https://github.com/assistant-ui/assistant-ui/commit/35b9a3a7429173b22446f31397b83a19004edc1d) - Keep `useAISDKRuntime` from re-running a thread's history setup on every render. ([@kl3inIT](https://github.com/kl3inIT))
+- Updated dependencies [[`becf077`](https://github.com/assistant-ui/assistant-ui/commit/becf0772bbb53f9a1f03b23b7eee15401c6380a9), [`f8da439`](https://github.com/assistant-ui/assistant-ui/commit/f8da439defda5e2c10453718f4455a9a2d787af2), [`78e2ea8`](https://github.com/assistant-ui/assistant-ui/commit/78e2ea8b02f643d1345b1444728b9484e6a333fa), [`2dc77cf`](https://github.com/assistant-ui/assistant-ui/commit/2dc77cf77810d7d512783323989b2f2c345e032b)]:
+  - @assistant-ui/core@0.3.33
+
 ## 0.0.16
 
 ### Patch Changes

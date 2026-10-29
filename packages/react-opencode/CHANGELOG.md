@@ -1,5 +1,13 @@
 # @assistant-ui/react-opencode
 
+## 0.2.35
+
+### Patch Changes
+
+- [#10155](https://github.com/assistant-ui/assistant-ui/pull/10155) [`5753041`](https://github.com/assistant-ui/assistant-ui/commit/5753041e6601f72e56f38cfed721929d9e69a515) - Preserve native part IDs when projecting OpenCode messages so text, reasoning, files, and data parts retain their stable identities. ([@clean99](https://github.com/clean99))
+- Updated dependencies [[`becf077`](https://github.com/assistant-ui/assistant-ui/commit/becf0772bbb53f9a1f03b23b7eee15401c6380a9), [`f8da439`](https://github.com/assistant-ui/assistant-ui/commit/f8da439defda5e2c10453718f4455a9a2d787af2), [`78e2ea8`](https://github.com/assistant-ui/assistant-ui/commit/78e2ea8b02f643d1345b1444728b9484e6a333fa), [`2dc77cf`](https://github.com/assistant-ui/assistant-ui/commit/2dc77cf77810d7d512783323989b2f2c345e032b)]:
+  - @assistant-ui/core@0.3.33
+
 ## 0.2.34
 
 ### Patch Changes

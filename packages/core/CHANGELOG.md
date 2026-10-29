@@ -1,5 +1,17 @@
 # @assistant-ui/core
 
+## 0.3.33
+
+### Patch Changes
+
+- [#10165](https://github.com/assistant-ui/assistant-ui/pull/10165) [`becf077`](https://github.com/assistant-ui/assistant-ui/commit/becf0772bbb53f9a1f03b23b7eee15401c6380a9) - Wait for the initialized thread state to commit before resolving `initialize()`. ([@rupic-app](https://github.com/apps/rupic-app))
+
+- [#10192](https://github.com/assistant-ui/assistant-ui/pull/10192) [`f8da439`](https://github.com/assistant-ui/assistant-ui/commit/f8da439defda5e2c10453718f4455a9a2d787af2) - Initialize a thread on the replacement adapter when the thread list adapter changes while its first message is being sent, instead of failing the reply with "Thread list adapter changed while an operation was pending." ([@okisdev](https://github.com/okisdev))
+
+- [#10175](https://github.com/assistant-ui/assistant-ui/pull/10175) [`78e2ea8`](https://github.com/assistant-ui/assistant-ui/commit/78e2ea8b02f643d1345b1444728b9484e6a333fa) - Publish imported external-store messages before notifying thread subscribers. ([@rupic-app](https://github.com/apps/rupic-app))
+
+- [#10156](https://github.com/assistant-ui/assistant-ui/pull/10156) [`2dc77cf`](https://github.com/assistant-ui/assistant-ui/commit/2dc77cf77810d7d512783323989b2f2c345e032b) - Send file parts with `sourceType: "id"` as AG-UI file sources instead of inline bytes, preserving provider handles through snapshot round trips. A file source in a `MESSAGES_SNAPSHOT` user message now also imports as an attachment, so the handle stays visible in the thread. ([@clean99](https://github.com/clean99))
+
 ## 0.3.32
 
 ### Patch Changes

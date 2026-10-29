@@ -1,5 +1,19 @@
 # @assistant-ui/react-google-adk
 
+## 0.0.42
+
+### Patch Changes
+
+- [#10178](https://github.com/assistant-ui/assistant-ui/pull/10178) [`66fd5c6`](https://github.com/assistant-ui/assistant-ui/commit/66fd5c6a87a1aff69e4f12c5c23d6ef1407f60c8) - Render one approval control per ADK confirmation. ([@rupic-app](https://github.com/apps/rupic-app))
+
+- [#10188](https://github.com/assistant-ui/assistant-ui/pull/10188) [`d7cc5a2`](https://github.com/assistant-ui/assistant-ui/commit/d7cc5a27d75b83996c7840e403e55c22f381bcfc) - Keep the content parts an ADK error event carries. ([@okisdev](https://github.com/okisdev))
+
+- [#10176](https://github.com/assistant-ui/assistant-ui/pull/10176) [`4b4266e`](https://github.com/assistant-ui/assistant-ui/commit/4b4266efafe6a0ead9fa749260966a7f3eb5d5be) - Keep ADK error details in message status instead of duplicating them as content. ([@rupic-app](https://github.com/apps/rupic-app))
+
+- [#10179](https://github.com/assistant-ui/assistant-ui/pull/10179) [`00fd807`](https://github.com/assistant-ui/assistant-ui/commit/00fd807aa099992b8c57fefb4e4849f0cb5895a5) - Pass structured ADK tool results to renderers. ([@rupic-app](https://github.com/apps/rupic-app))
+- Updated dependencies [[`becf077`](https://github.com/assistant-ui/assistant-ui/commit/becf0772bbb53f9a1f03b23b7eee15401c6380a9), [`f8da439`](https://github.com/assistant-ui/assistant-ui/commit/f8da439defda5e2c10453718f4455a9a2d787af2), [`78e2ea8`](https://github.com/assistant-ui/assistant-ui/commit/78e2ea8b02f643d1345b1444728b9484e6a333fa), [`2dc77cf`](https://github.com/assistant-ui/assistant-ui/commit/2dc77cf77810d7d512783323989b2f2c345e032b)]:
+  - @assistant-ui/core@0.3.33
+
 ## 0.0.41
 
 ### Patch Changes
